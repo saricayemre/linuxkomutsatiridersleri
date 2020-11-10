@@ -1,7 +1,7 @@
 # Anasayfa
 Linux işletim sisteminin komutlarını içeren bir eğitim dökümanıdır.
 
-![giriş](https://i.resimyukle.xyz/TSe7GK.png)
+![giriş](https://github.com/saricayemre/linuxkomutsatiridersleri/blob/main/lks-img.png?raw=true)
 
 ## Giriş
 Linux işletim sistemi bilişim dünyasının vazgeçilmez sistemlerinden biridir. Bu işletim sistemi temel olarak terminal komutları ile hayat kazanıyor. Her siber güvenlikçinin bilmesi gereken temel, basit ve kullanışlı komutları sizlere kendi anlatımımla sunmak istedim. Bu eğitim dökümanını için bir slogan da düşündüm;
