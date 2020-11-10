@@ -3,7 +3,7 @@ Linux işletim sisteminin komutlarını içermektedir.
 
 ## Giriş
 Linux işletim sistemi bilişim dünyasının vazgeçilmez sistemlerinden biridir. Bu işletim sistemi temel olarak terminal komutları ile hayat kazanıyor. Her siber güvenlikçinin bilmesi gereken temel, basit ve kullanışlı komutları sizlere kendi anlatımımla sunmak istedim. Bu eğitim dökümanını için bir slogan da düşündüm;
-`*Linux kullanmak bir ayrıcalıktır. :)*`
+` Linux kullanmak bir ayrıcalıktır. :) `
 Umarım bu eğitim dökümanı faydalı olur.
 
 ## İçindekiler
