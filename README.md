@@ -3,7 +3,7 @@ Linux işletim sisteminin komutlarını içermektedir.
 
 ### İçindekiler
 
-[Ders 1 >](https://saricayemre.github.io/ders1/)   Yardım Alma Komutları</br>
+[Ders 1 >](https://saricayemre.github.io/linuxkomutsatiridersleri-ders1/)   Yardım Alma Komutları</br>
 [Ders 2 >](https://saricayemre.github.io/ders2/)   Bilgi Alma Komutları</br>
 [Ders 3 >](https://saricayemre.github.io/ders3/)   Dizinler Arasında Gezme/İçerik Listeleme</br>
 [Ders 4 >](https://saricayemre.github.io/ders4/)   Dosya İşlemleri</br>
