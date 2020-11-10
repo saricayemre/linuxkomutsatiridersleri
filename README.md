@@ -1,5 +1,7 @@
 # Anasayfa
-Linux işletim sisteminin komutlarını içermektedir.
+Linux işletim sisteminin komutlarını içeren bir eğitim dökümanıdır.
+
+![kapak](https://github.com/saricayemre/linuxkomutsatiridersleri/blob/main/lks-img.png)
 
 ## Giriş
 Linux işletim sistemi bilişim dünyasının vazgeçilmez sistemlerinden biridir. Bu işletim sistemi temel olarak terminal komutları ile hayat kazanıyor. Her siber güvenlikçinin bilmesi gereken temel, basit ve kullanışlı komutları sizlere kendi anlatımımla sunmak istedim. Bu eğitim dökümanını için bir slogan da düşündüm;
